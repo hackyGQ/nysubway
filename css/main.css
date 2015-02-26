@@ -1,0 +1,187 @@
+body {
+    text-align: center;
+    background: url("../img/back.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Helvetica;
+}
+
+h1 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 100px;
+	color: #FFA007;
+}
+
+div#content {
+	width: 90%;
+	height: 580px;
+	margin: 0 auto;
+	position:absolute;
+	top: 5%;
+	left: 5%;
+}
+
+div#red.line {
+	background: #EE352E;
+	width: 100px;
+	height: 100px;
+	padding: 15px; /* 内側余白 */
+	border:solid 2px #ccc; /* 罫線 */
+	border-radius: 50%;
+	text-align: center;
+	line-height: 120px;
+	font-size: 100px;
+	float: left;
+}
+
+div#green.line {
+	background: #00933C;
+	width: 100px;
+	height: 100px;
+	padding: 15px; /* 内側余白 */
+	border:solid 2px #ccc; /* 罫線 */
+	border-radius: 50%;
+	text-align: center;
+	line-height: 120px;
+	font-size: 100px;
+	float: left;
+}
+
+div#blue.line {
+	background: #2850AD;
+	width: 100px;
+	height: 100px;
+	padding: 15px; /* 内側余白 */
+	border:solid 2px #ccc; /* 罫線 */
+	border-radius: 50%;
+	text-align: center;
+	line-height: 120px;
+	font-size: 100px;
+	float: left;
+}
+
+div#orange.line {
+	background: #F66319;
+	width: 100px;
+	height: 100px;
+	padding: 15px; /* 内側余白 */
+	border:solid 2px #ccc; /* 罫線 */
+	border-radius: 50%;
+	text-align: center;
+	line-height: 120px;
+	font-size: 100px;
+	float: left;
+}
+
+div#yellow.line {
+	background: #FCCC0A;
+	width: 100px;
+	height: 100px;
+	padding: 15px; /* 内側余白 */
+	border:solid 2px #ccc; /* 罫線 */
+	border-radius: 50%;
+	text-align: center;
+	line-height: 120px;
+	font-size: 100px;
+	float: left;
+}
+
+div#seven.line {
+	/* color */
+	background: #B933AD;
+	width: 100px;
+	height: 100px;
+	padding: 15px; /* 内側余白 */
+	border:solid 2px #ccc; /* 罫線 */
+	border-radius: 50%;
+	text-align: center;
+	line-height: 120px;
+	font-size: 100px;
+	float: left;
+}
+
+div#g.line {
+	/* color */
+	background: #6CBE45;
+	width: 100px;
+	height: 100px;
+	padding: 15px; /* 内側余白 */
+	border:solid 2px #ccc; /* 罫線 */
+	border-radius: 50%;
+	text-align: center;
+	line-height: 120px;
+	font-size: 100px;
+	float: left;
+}
+
+div#jz.line {
+	/* color */
+	background: #996633;
+	width: 100px;
+	height: 100px;
+	padding: 15px; /* 内側余白 */
+	border:solid 2px #ccc; /* 罫線 */
+	border-radius: 50%;
+	text-align: center;
+	line-height: 120px;
+	font-size: 100px;
+	float: left;
+}
+
+div#l.line {
+	/* color */
+	background: #A7A9AC;
+	width: 100px;
+	height: 100px;
+	padding: 15px; /* 内側余白 */
+	border:solid 2px #ccc; /* 罫線 */
+	border-radius: 50%;
+	text-align: center;
+	line-height: 120px;
+	font-size: 100px;
+	float: left;
+}
+
+div#s.line {
+	/* color */
+	background: #808183;
+	width: 100px;
+	height: 100px;
+	padding: 15px; /* 内側余白 */
+	border:solid 2px #ccc; /* 罫線 */
+	border-radius: 50%;
+	text-align: center;
+	line-height: 120px;
+	font-size: 100px;
+	float: left;
+}
+
+div.lines {
+	height: 138px;
+	clear: both;
+}
+
+/*
+#content {
+	height: 580px;
+	text-align:center;
+}
+
+#content div   {
+	text-align:center;
+    width: 90%;
+    border: 1px solid #FF0000;
+    margin: 0 auto;
+}
+
+div .lines {
+	display: inline-block;
+  	display: -moz-inline-box;
+    display: inline;
+	height: 136px;
+	clear:both;
+}
+*/
