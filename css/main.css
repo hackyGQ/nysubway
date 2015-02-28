@@ -89,3 +89,9 @@ div.lines {
 	height: 138px;
 	clear: both;
 }
+
+div.all {
+  margin-top: 15px;
+  font-size: 80px;
+  color: #FFA007;
+}
